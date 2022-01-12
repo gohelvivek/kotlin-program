@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168243648046",
+    "project_id": "communicationapp-885ac",
+    "storage_bucket": "communicationapp-885ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168243648046:android:8caf940c31c0dad52a71bf",
+        "android_client_info": {
+          "package_name": "com.avh.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168243648046-7iv89ql5d2avklhi84ifacgekinr9oiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOjBwk4kG5w-PzrfWpVJopl_eXOkAtTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168243648046-7iv89ql5d2avklhi84ifacgekinr9oiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
