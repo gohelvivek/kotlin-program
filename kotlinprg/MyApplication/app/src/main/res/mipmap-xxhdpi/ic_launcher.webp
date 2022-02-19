@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66e9bc73-d0c2-4b3e-af52-2ec4bd51cf28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../binit/NewNotesSharing/.idea/NotesSharingProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/java/com/avh/application/MainActivity2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/drawable-v24/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/drawable/bckimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/drawable/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/drawable/logoo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/font/acme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/font/actor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/font/aldrich.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/font/bungee_shade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Application/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Registration/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Login Form/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jewelbook/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jewelbook/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student Login Form/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Student Login Form/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student Login Form/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Student Login Form/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\STUD\.android\avd\Nexus_5X_API_22.avd]" />
+  <compon

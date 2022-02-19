@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642405712998",
+    "project_id": "replyproj",
+    "storage_bucket": "replyproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642405712998:android:29ce0e299bd6249ac019a7",
+        "android_client_info": {
+          "package_name": "com.avh.nfreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642405712998-rdlfh5j2rpe0l0nif30pdd2s860gieg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEzVJ07vRDx3EScphmPbq5gV1DIUSEHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642405712998-rdlfh5j2rpe0l0nif30pdd2s860gieg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
