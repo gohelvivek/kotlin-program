@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img1"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/lg_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100sp"
+        android:fontFamily="@font/acme"
+        android:textStyle="bold"
+        android:text="Login"
+        android:textColor="@color/black"
+        android:textSize="40sp" />
+
+    <EditText
+        android:id="@+id/uenm_1"
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40sp"
+        android:hint="Username"
+        android:layout_gravity="center"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/pds_1"
+        android:layout_width="300sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40sp"
+        android:hint="Password"
+        android:layout_gravity="center"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/btn_1"
+        android:layout_width="120sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20sp"
+        android:backgroundTint="@color/Hexa"
+        android:hint="Sign In"
+        android:textStyle="bold"
+        android:textColorHint="@color/black" />
+
+    <TextView
+        android:id="@+id/reg_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account? REGISTER"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center"
+        android:textColorHint="@color/black"
+        android:textSize="25sp" />
+
+
+</LinearLayout>
